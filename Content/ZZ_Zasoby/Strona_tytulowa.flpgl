@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="4.25in" Right="0.04166667in" Bottom="2.604167in" Width="572px" Height="206px">
+        </Frame>
+        <Frame X="181px" Y="614px" Width="391px" Height="200px" FlowIndex="1" Flow="body" Right="4px" Bottom="50px" />
+        <Frame X="0px" Y="14px" Width="571px" Height="396px" Flow="decoration0" Right="5px" Bottom="454px" BackgroundImage="../_Obrazki/weekend-winnica.jpg" BackgroundRepeat="stretch" />
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="left" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame X="-32px" Y="0px" Width="588px" Height="111px" Flow="header" Right="20px" Bottom="753px" />
+        <Frame X="-30px" Y="127px" Width="584px" Height="693px" Flow="body" Right="22px" Bottom="44px" />
+        <Frame X="-29px" Y="828px" Width="582px" Height="53px" Flow="footer" Right="23px" Bottom="-17px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">Strona <MadCap:variable xhtml:name="System.PageNumber" /> </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

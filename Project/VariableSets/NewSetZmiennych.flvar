@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Firma"
+    EvaluatedDefinition="Firma A">Firma A</Variable>
+  <Variable
+    Comment=""
+    Name="Nr tel">858 123 4567</Variable>
+  <Variable
+    Name="Firma"
+    Comment=""
+    EvaluatedDefinition="Firma B">Firma B</Variable>
+  <Variable
+    Name="Data i godzina"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2021-03-13T11:40:18.5628895+01:00"
+    EvaluatedDefinition="dddd MMMM dd, yyyy">dddd MMMM dd, yyyy</Variable>
+  <Variable
+    Name="Firma"
+    Comment=""
+    EvaluatedDefinition="Firma C">Firma C</Variable>
+</CatapultVariableSet>
